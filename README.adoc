@@ -1,6 +1,6 @@
 = Antora Default UI
 
-[NOTE
+[NOTE]
 ====
 The contents are slightly modified from the Antora Default UI (https://gitlab.com/antora/antora-ui-default)
 for my own purpose, even tough I preserve this README that may be useful for reference purposes.
